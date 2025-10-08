@@ -48,7 +48,7 @@
 ## 📞 Контакты
 
 - **Email**: [y8819@mail.ru](y8819@mail.ru)
-- **VK**: [prince_2406]([(https://vk.com/prince_2406))
+- **VK**: [https://vk.com/prince_2406]([(https://vk.com/prince_2406))
 - **Телеграм**: [@p3rf3ct0](https://t.me/@p3rf3ct0)
 - **GitHub**: [github.com/P3RF3CT0-png](https://github.com/P3RF3CT0-png)
 
