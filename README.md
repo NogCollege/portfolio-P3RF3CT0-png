@@ -47,10 +47,10 @@
 
 ## 📞 Контакты
 
-- **Email**: [your.email@example.com](y8819@mail.ru)
-- **VK**: [vk.com/your_profile]([https://vk.com/your_profile](https://vk.com/prince_2406))
-- **Телеграм**: [@yournickname](https://t.me/yournickname)
-- **GitHub**: [github.com/yourname](https://github.com/yourname)
+- **Email**: [y8819@mail.ru](y8819@mail.ru)
+- **VK**: [vk.com/prince_2406]([(https://vk.com/prince_2406))
+- **Телеграм**: [@p3rf3ct0](https://t.me/@p3rf3ct0)
+- **GitHub**: [github.com/P3RF3CT0-png](https://github.com/P3RF3CT0-png)z
 
 ---
 
