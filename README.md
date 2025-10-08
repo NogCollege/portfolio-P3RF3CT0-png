@@ -47,8 +47,8 @@
 
 ## 📞 Контакты
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **VK**: [vk.com/your_profile](https://vk.com/your_profile)
+- **Email**: [your.email@example.com](y8819@mail.ru)
+- **VK**: [vk.com/your_profile]([https://vk.com/your_profile](https://vk.com/prince_2406))
 - **Телеграм**: [@yournickname](https://t.me/yournickname)
 - **GitHub**: [github.com/yourname](https://github.com/yourname)
 
